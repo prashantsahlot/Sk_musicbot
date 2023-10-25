@@ -23,7 +23,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "☆𝗦𝐇𝗜𝐕𝗔𝐌☆", url=f"https://t.me/itsz_shivam")
+                        "☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆", url=f"https://t.me/HereShiva2")
                 ]
             ]
         ),
@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "☆𝗦𝐇𝗜𝐕𝗔𝐌☆", url=f"https://t.me/itsz_shivam")
+                        "☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆", url=f"https://t.me/HereShiva2")
                 ]
             ]
         ),
@@ -64,7 +64,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "👉𝐆𝐎 𝐇𝐄𝐑𝐄👈", url=f"https://github.com/itszshivam/sk_musicbot")
+                        "👉𝐆𝐎 𝐇𝐄𝐑𝐄👈", url=f"https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4")
                 ]
             ]
         ),
@@ -100,7 +100,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "👉𝐆𝐎 𝐇𝐄𝐑𝐄👈", url=f"https://github.com/itszshivam/sk_musicbot")
+                        "👉𝐆𝐎 𝐇𝐄𝐑𝐄👈", url=f"https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4")
                 ]
             ]
         ),
